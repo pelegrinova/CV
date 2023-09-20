@@ -5,7 +5,8 @@ body {
 }
 
 header {
-    background-color: #f5cba7;
+    /* background-color: #f5cba7; */
+    background-color: #EC791B8F;
     overflow: auto;
     padding: 20px 15%;
 }
@@ -20,6 +21,7 @@ footer {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 19px;
 }
 
 h1,
@@ -36,13 +38,14 @@ h1 {
 
 h2 {
     text-decoration: underline;
-    font-style: italic;
-    padding-bottom: 10px;
+    /* font-style: italic; */
+    /* padding-bottom: 10px; */
     font-size: 26px;
 }
 
 p {
     font-size: 19px;
+    padding-top: 10px;
 }
 
 ul {
@@ -94,6 +97,7 @@ a:active {
 
 .podsekce h3 {
     font-size: 20px;
+    font-style: italic;
 }
 
 .osobni_info h3 {
