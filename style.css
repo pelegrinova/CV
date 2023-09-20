@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #f5cba7;
+}
+
+section {
+    background-color: #f6ddcc;
+}
+
+footer {
+    background-color: #eb984e;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+    margin: 0;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
