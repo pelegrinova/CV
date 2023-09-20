@@ -21,7 +21,7 @@ footer {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 19px;
+    /* font-size: 19px; */
 }
 
 h1,
@@ -32,19 +32,15 @@ ul {
     margin: 0;
 }
 
-h1 {
-    font-size: 40px;
-}
-
 h2 {
     text-decoration: underline;
     /* font-style: italic; */
     /* padding-bottom: 10px; */
-    font-size: 26px;
+    font-size: 22px;
 }
 
 p {
-    font-size: 19px;
+    font-size: 17px;
     padding-top: 10px;
 }
 
@@ -67,7 +63,7 @@ a:active {
     padding-top: 40px; */
     border: 2px solid ;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
     border-radius: 0 50px 50px 50px;
 }
 
@@ -81,7 +77,9 @@ a:active {
 .kontakty {
     line-height: 1.5;
     padding-top: 15px;
+    font-size: 14px;
 }
+
 
 .profil p {
     text-align: justify;
@@ -92,11 +90,11 @@ a:active {
     padding-top: 15px;
     padding-left: 15px;
     color:  #212f3d;
-    font-size: 19px;
+    font-size: 17px;
 }
 
 .podsekce h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-style: italic;
 }
 
