@@ -44,9 +44,11 @@ p {
     padding-top: 10px;
 }
 
-ul {
+.podsekce ul {
     list-style: "– ";
+    text-align: justify;
 }
+
 a {
     color: #34495e;
 }
@@ -71,7 +73,8 @@ a:active {
     width: 200px;
     border-radius: 50%;
     float: left;
-    padding: 20px;
+    padding: 0;
+    margin: 20px 20px 0 0;
 }
 
 .kontakty {
@@ -102,3 +105,47 @@ a:active {
     color:  #212f3d;
 }
 
+.menu {
+    list-style: none;
+    background-color: #e59866;
+}
+
+.menu li {
+    display: inline-block;
+    /* padding-right: 40px; */
+    margin-right: 40px;
+}
+
+.menu ul {
+    padding: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #212f3d;
+}
+
+.menu a:hover {
+    color: #ba4a00
+}
+
+.menu a:focus {
+    color: #ba4a00
+}
+
+.publikace ul,
+.konference_a_workshopy ul {
+    list-style: "– ";
+    color:  #212f3d;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.publikace li,
+.konference_a_workshopy li {
+    padding-top: 10px;
+}
+
+.aktivni_polozka_menu a {
+    color: #873600;
+}
