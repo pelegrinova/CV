@@ -1,3 +1,3 @@
 # CV
-First homework in the course Staň se kodérkou: Curriculum vitae.
-You can choose from three types of resumes here: academic, IT, and general resume.
+První úkol kurzu Staň se kodérkou: životopis.
+Na jednotlivých stránkách jsou tři typy životopisu: všeobecný, akademický a IT životopis.
