@@ -79,17 +79,13 @@ h1 {
 }
 
 section {
-    padding: 20px 0 0 10%;
+    padding: 20px 15% 0 10%;
     text-align: justify;
 }
 
 section h2 {
     font-size: 20px;
     padding-bottom: 5px;
-}
-
-p {
-    padding-right: 40%;
 }
 
 .polozky_sekce {
@@ -113,4 +109,10 @@ p {
 
 .doplnujici_info_polozky li {
     padding-bottom: 2px;
+}
+
+.polozky_publikace,
+.polozky_konference,
+.polozky_granty {
+    list-style: "– ";
 }
