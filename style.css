@@ -55,6 +55,12 @@ h1 {
     margin-top: 10px;
 }
 
+.kontakty a:hover,
+.kontakty a:focus,
+.kontakty a:active {
+    color:#ba4a00;
+}
+
 .menu {
     background-color:#e59866;
     padding: 10px 10%;
@@ -72,6 +78,12 @@ h1 {
 
 .menu a {
     text-decoration: none;
+}
+
+.menu a:focus,
+.menu a:hover,
+.menu a:active {
+    color:#ba4a00;
 }
 
 .aktivni_polozka_menu a {
